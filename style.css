@@ -1,0 +1,35 @@
+body{
+    position: center;
+    background-color: #338f21;
+}
+
+table{
+    
+    width: 600px;
+    background-color: rgb(59, 161, 56);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+
+
+table, th, td{
+    border:.8px solid #000;
+    border-spacing: 0; 
+}
+
+p, h1{
+    text-align: center;
+    color: #fff
+    
+    
+}
+
+img{
+    width:200px;
+    height:150px;
+    border: 3px solid rgb(15, 129, 4);
+    padding: 10px;
+    
+}
